@@ -10,7 +10,7 @@
 [![CodePen](https://img.shields.io/badge/CodePen-000000?logo=codepen&logoColor=white)](https://codepen.io/Muhammad-Saif-the-bold)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saifofficial1729@gmail.com)
 
-🧠 Competitive Programming
+
 🔹 Solved 200+ DSA problems across platforms  
 🔹 Active on LeetCode with consistent problem-solving practice  
 
